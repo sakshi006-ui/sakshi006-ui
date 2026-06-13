@@ -93,9 +93,9 @@ Role-Based Access Control system with authentication & authorization.
 
 📧 Email: bobadesakshi9@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn:[ https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sakshi-bobade-99a50428a)
 
-🌍 Portfolio: https://your-vercel-url.vercel.app
+🌍 Portfolio: [https://your-vercel-url.vercel.app](https://portfolio-bobadesakshi9-8906s-projects.vercel.app/)
 
 ---
 
