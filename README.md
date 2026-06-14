@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,100:4F46E5&height=250&section=header&text=Sakshi%20Bobade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=65" />
 <h1 align="center">
 Hi 👋, I'm Sakshi Bobade
 </h1>
