@@ -1,21 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,100:4F46E5&height=250&section=header&text=Sakshi%20Bobade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=65" />
-<h1 align="center">
-Hi 👋, I'm Sakshi Bobade
-</h1>
-
-<h3 align="center">
-Full Stack Developer | Computer Engineering Student | Freelancer
-</h3>
-
-<p align="center">
-🚀 Building scalable web applications <br/>
-💻 Passionate about Full Stack Development <br/>
-🌱 Learning System Design & Cloud Technologies
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,100:4F46E5&height=250&section=header&text=Sakshi%20Bobade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=65" />
 
 <h1 align="center">Hi 👋, I'm Sakshi Bobade</h1>
 
@@ -179,10 +162,9 @@ A digital agriculture platform designed to help farmers access information and s
 
 💻 GitHub: https://github.com/sakshi006-ui
 
-🌍 Portfolio: https://portfolio-bobadesakshi9-8906s-projects.vercel.app
+🌍 Portfolio: portfolio-welf.vercel.app
 
-💼 LinkedIn: Add your LinkedIn profile link here
-
+💼 LinkedIn: https://www.linkedin.com/in/sakshi-bobade-99a50428a
 ---
 
 ### 💡 Quote
