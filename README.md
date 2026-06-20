@@ -7,7 +7,7 @@ Full Stack Developer • Computer Engineering Student • AI Enthusiast
 </h3>
 
 <p align="center">
-  <a href="[https://portfolio-bobadesakshi9-8906s-projects.vercel.app](https://sakshi-work.vercel.app/)">
+  <a href="https://sakshi-work.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00A3FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/sakshi006-ui">
